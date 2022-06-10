@@ -1,0 +1,54 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://www.isurupathumherath.flixsrilanka.com
+Data file = /home2/flixsril/isurupathumherath.flixsrilanka.com/wp-content/themes/arter/demo/01/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/after_import---
+
